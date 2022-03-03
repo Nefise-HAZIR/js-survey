@@ -1,0 +1,14 @@
+
+.hesapla input{
+    font-size: 25px;
+    border: none;
+}
+.filter{
+    display: block !important;
+    font-weight: bolder !important;
+    background-color: darkgray;
+    color:brown;
+}
+body{
+    background-color: #4f4f4f !important;
+}
